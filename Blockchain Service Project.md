@@ -9,3 +9,4 @@
   - `Oracle Problem 문제 해결 방안 연구`
 
 - etc
+- 수익모델
